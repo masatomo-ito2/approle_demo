@@ -1,0 +1,3 @@
+path "ctc/*" {
+  capabilities = [ "read" ]
+}
